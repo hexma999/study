@@ -2,10 +2,3 @@ test
 tewtr
 stdstrfse
 dfds
-sdfsdf
-sdfasdfsdf
-asdf
-dfsdf
-sdfasdfsdfsdfa
-dfsa
-sdfas
